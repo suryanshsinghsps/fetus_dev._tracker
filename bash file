@@ -1,0 +1,2 @@
+# run in terminal of the same folder where file is saved
+streamlit run main.py
